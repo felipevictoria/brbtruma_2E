@@ -1,1 +1,6 @@
-
+:root{
+    --cor-de-fundo:#1c64f3;
+}
+bady{
+    background-color: var(--cor-de-fundo);
+}
