@@ -1,9 +1,6 @@
-@import url(style/header.css);
-
 :root{
-    --cor-de-fundo:#a09c9f;
-    --branco: #fff;
+    --cor-de-fundo:#f037c1;
 }
-body{
+bady{
     background-color: var(--cor-de-fundo);
 }
